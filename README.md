@@ -17,6 +17,7 @@ The Arc Loader is a customized version of the Redpill Loader for DSM 7.x (Xpenol
 - <a href="https://github.com/AuxXxilium">Overview</a>
 - <a href="https://auxxxilium.tech/wiki">FAQ & Wiki</a>
 - <a href="https://github.com/AuxXxilium/arc/releases?q=prerelease%3Afalse&expanded=true">Download latest Build</a>
+- <a href="https://blog.nootch.net/post/poor-mans-synology-nas-on-proxmox/">Poor man’s Synology NAS (using Proxmox and XPenology) - Install</a>
 
 ### Developer
 
